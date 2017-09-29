@@ -1,0 +1,802 @@
+{
+   "1": {
+      "Number of Chances": "1",
+      "Number Displayed on the Bomb": "20"
+   },
+   "2": {
+      "Number of Chances": "1",
+      "Number Displayed on the Bomb": "50"
+   },
+   "3": {
+      "Number of Chances": "1",
+      "Number Displayed on the Bomb": "90"
+   },
+   "4": {
+      "Number of Chances": "1",
+      "Number Displayed on the Bomb": "30"
+   },
+   "5": {
+      "Number of Chances": "1",
+      "Number Displayed on the Bomb": "70"
+   },
+   "6": {
+      "Number of Chances": "2",
+      "Number Displayed on the Bomb": "25"
+   },
+   "7": {
+      "Number of Chances": "2",
+      "Number Displayed on the Bomb": "57"
+   },
+   "8": {
+      "Number of Chances": "2",
+      "Number Displayed on the Bomb": "63"
+   },
+   "9": {
+      "Number of Chances": "2",
+      "Number Displayed on the Bomb": "450"
+   },
+   "10": {
+      "Number of Chances": "2",
+      "Number Displayed on the Bomb": "99"
+   },
+   "11": {
+      "Number of Chances": "2",
+      "Number Displayed on the Bomb": "73"
+   },
+   "12": {
+      "Number of Chances": "2",
+      "Number Displayed on the Bomb": "79"
+   },
+   "13": {
+      "Number of Chances": "2",
+      "Number Displayed on the Bomb": "83"
+   },
+   "14": {
+      "Number of Chances": "3",
+      "Number Displayed on the Bomb": "103"
+   },
+   "15": {
+      "Number of Chances": "3",
+      "Number Displayed on the Bomb": "127"
+   },
+   "16": {
+      "Number of Chances": "3",
+      "Number Displayed on the Bomb": "154"
+   },
+   "17": {
+      "Number of Chances": "3",
+      "Number Displayed on the Bomb": "169"
+   },
+   "18": {
+      "Number of Chances": "3",
+      "Number Displayed on the Bomb": "179"
+   },
+   "19": {
+      "Number of Chances": "3",
+      "Number Displayed on the Bomb": "222"
+   },
+   "20": {
+      "Number of Chances": "3",
+      "Number Displayed on the Bomb": "486"
+   },
+   "21": {
+      "Number of Chances": "3",
+      "Number Displayed on the Bomb": "243"
+   },
+   "22": {
+      "Number of Chances": "3",
+      "Number Displayed on the Bomb": "302"
+   },
+   "23": {
+      "Number of Chances": "3",
+      "Number Displayed on the Bomb": "357"
+   },
+   "24": {
+      "Number of Chances": "3",
+      "Number Displayed on the Bomb": "497"
+   },
+   "25": {
+      "Number of Chances": "3",
+      "Number Displayed on the Bomb": "485"
+   },
+   "26": {
+      "Number of Chances": "3",
+      "Number Displayed on the Bomb": "576"
+   },
+   "27": {
+      "Number of Chances": "3",
+      "Number Displayed on the Bomb": "855"
+   },
+   "28": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "329"
+   },
+   "29": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "334"
+   },
+   "30": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "412"
+   },
+   "31": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "427"
+   },
+   "32": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "461"
+   },
+   "33": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "535"
+   },
+   "34": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "636"
+   },
+   "35": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "1287"
+   },
+   "36": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "1328"
+   },
+   "37": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "1467"
+   },
+   "38": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "1876"
+   },
+   "39": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "727"
+   },
+   "40": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "834"
+   },
+   "41": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "904"
+   },
+   "42": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "943"
+   },
+   "43": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "2324"
+   },
+   "44": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "2350"
+   },
+   "45": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "3136"
+   },
+   "46": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "3555"
+   },
+   "47": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "3969"
+   },
+   "48": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "4536"
+   },
+   "49": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "4802"
+   },
+   "50": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "5757"
+   },
+   "51": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "6561"
+   },
+   "52": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "7371"
+   },
+   "53": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "4656"
+   },
+   "54": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "4704"
+   },
+   "55": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "5292"
+   },
+   "56": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "6111"
+   },
+   "57": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "6156"
+   },
+   "58": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "5904"
+   },
+   "59": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "5888"
+   },
+   "60": {
+      "Number of Chances": "4",
+      "Number Displayed on the Bomb": "5061"
+   },
+   "61": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "1234"
+   },
+   "62": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "1379"
+   },
+   "63": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "547"
+   },
+   "64": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "927"
+   },
+   "65": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "611"
+   },
+   "66": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "671"
+   },
+   "67": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "879"
+   },
+   "68": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "2856"
+   },
+   "69": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "929"
+   },
+   "70": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "932"
+   },
+   "71": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "978"
+   },
+   "72": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "1017"
+   },
+   "73": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "2061"
+   },
+   "74": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "2437"
+   },
+   "75": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "3546"
+   },
+   "76": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "3549"
+   },
+   "77": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "3767"
+   },
+   "78": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "3933"
+   },
+   "79": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "4949"
+   },
+   "80": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "5679"
+   },
+   "81": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "5832"
+   },
+   "82": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "6748"
+   },
+   "83": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "6125"
+   },
+   "84": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "7203"
+   },
+   "85": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "7575"
+   },
+   "86": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "8012"
+   },
+   "87": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "8729"
+   },
+   "88": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "8722"
+   },
+   "89": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "9344"
+   },
+   "90": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "8316"
+   },
+   "91": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "9992"
+   },
+   "92": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "8736"
+   },
+   "93": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "7488"
+   },
+   "94": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "6105"
+   },
+   "95": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "8274"
+   },
+   "96": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "9504"
+   },
+   "97": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "8463"
+   },
+   "98": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "8181"
+   },
+   "99": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "9345"
+   },
+   "100": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "9478"
+   },
+   "101": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "9898"
+   },
+   "102": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "9905"
+   },
+   "103": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "5319"
+   },
+   "104": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "4137"
+   },
+   "105": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "4151"
+   },
+   "106": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "2264"
+   },
+   "107": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "2732"
+   },
+   "108": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "6651"
+   },
+   "109": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "6687"
+   },
+   "110": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "5816"
+   },
+   "111": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "6597"
+   },
+   "112": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "6042"
+   },
+   "113": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "9954"
+   },
+   "114": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "9552"
+   },
+   "115": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "7020"
+   },
+   "116": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "8771"
+   },
+   "117": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "9042"
+   },
+   "118": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "4572"
+   },
+   "119": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "9891"
+   },
+   "120": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "9792"
+   },
+   "121": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "7686"
+   },
+   "122": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "8656"
+   },
+   "123": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "9828"
+   },
+   "124": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "4396"
+   },
+   "125": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "9184"
+   },
+   "126": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "6936"
+   },
+   "127": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "7188"
+   },
+   "128": {
+      "Number of Chances": "5",
+      "Number Displayed on the Bomb": "8484"
+   },
+   "129": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "1739"
+   },
+   "130": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "2121"
+   },
+   "131": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "2222"
+   },
+   "132": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "2569"
+   },
+   "133": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "2831"
+   },
+   "134": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "4079"
+   },
+   "135": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "4122"
+   },
+   "136": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "5151"
+   },
+   "137": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "6161"
+   },
+   "138": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "7999"
+   },
+   "139": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "8498"
+   },
+   "140": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "5598"
+   },
+   "141": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "2516"
+   },
+   "142": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "4991"
+   },
+   "143": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "7651"
+   },
+   "144": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "8708"
+   },
+   "145": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "7464"
+   },
+   "146": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9512"
+   },
+   "147": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "4756"
+   },
+   "148": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "8677"
+   },
+   "149": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9256"
+   },
+   "150": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9299"
+   },
+   "151": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9367"
+   },
+   "152": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9494"
+   },
+   "153": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9564"
+   },
+   "154": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9579"
+   },
+   "155": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9818"
+   },
+   "156": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9999"
+   },
+   "157": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "5247"
+   },
+   "158": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "5193"
+   },
+   "159": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "3552"
+   },
+   "160": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "3955"
+   },
+   "161": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "6669"
+   },
+   "162": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "6507"
+   },
+   "163": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9081"
+   },
+   "164": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9117"
+   },
+   "165": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "8112"
+   },
+   "166": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "8944"
+   },
+   "167": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "4748"
+   },
+   "168": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9464"
+   },
+   "169": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9126"
+   },
+   "170": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9783"
+   },
+   "171": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9927"
+   },
+   "172": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "8824"
+   },
+   "173": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "8712"
+   },
+   "174": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9224"
+   },
+   "175": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "8533"
+   },
+   "176": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "9768"
+   },
+   "177": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "4892"
+   },
+   "178": {
+      "Number of Chances": "6",
+      "Number Displayed on the Bomb": "8491"
+   },
+   "179": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "4023"
+   },
+   "180": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "4659"
+   },
+   "181": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "6452"
+   },
+   "182": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "3774"
+   },
+   "183": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "7122"
+   },
+   "184": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "4668"
+   },
+   "185": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "8989"
+   },
+   "186": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "9191"
+   },
+   "187": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "9226"
+   },
+   "188": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "9671"
+   },
+   "189": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "9699"
+   },
+   "190": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "9771"
+   },
+   "191": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "9822"
+   },
+   "192": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "9846"
+   },
+   "193": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "9918"
+   },
+   "194": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "7077"
+   },
+   "195": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "9492"
+   },
+   "196": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "6978"
+   },
+   "197": {
+      "Number of Chances": "7",
+      "Number Displayed on the Bomb": "7332"
+   },
+   "198": {
+      "Number of Chances": "8",
+      "Number Displayed on the Bomb": "8377"
+   },
+   "199": {
+      "Number of Chances": "8",
+      "Number Displayed on the Bomb": "9789"
+   },
+   "200": {
+      "Number of Chances": "8",
+      "Number Displayed on the Bomb": "9837"
+   }
+}
